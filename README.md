@@ -129,7 +129,7 @@ public class WeatherModule : ICommandModule
 <ol>
   <li>
     <b>Clone repository</b>
-    <pre>git clone https://github.com/your-username/NovaConsole.git</pre>
+    <pre>git clone https://github.com/polotorom-debug/Nova-Terminal-Suite-</pre>
   </li>
 
   <li>
